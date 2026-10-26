@@ -1,0 +1,3 @@
+reference,value
+majority-class accuracy on test set,0.7346
+churn prevalence on test set (= PR-AUC of a random scorer),0.2654

@@ -1,0 +1,41 @@
+feature,coef,odds_ratio,or_ci_low,or_ci_high
+MonthlyCharges,-1.3159,0.2682,0.0876,1.3311
+tenure,-1.2895,0.2754,0.1787,0.3796
+InternetService_DSL,-0.975,0.3772,0.2495,0.6892
+InternetService_Fiber optic,0.9036,2.4684,1.1132,4.0978
+Contract_Two year,-0.8716,0.4183,0.3057,0.5169
+MultipleLines_No phone service,-0.5769,0.5616,0.3529,1.0305
+TotalCharges,0.5674,1.7636,1.2659,2.7875
+OnlineSecurity_No internet service,-0.5242,0.592,0.4562,0.8345
+StreamingTV_No internet service,-0.5242,0.592,0.4562,0.8345
+StreamingMovies_No internet service,-0.5242,0.592,0.4562,0.8345
+TechSupport_No internet service,-0.5242,0.592,0.4562,0.8345
+InternetService_No,-0.5242,0.592,0.4562,0.8345
+DeviceProtection_No internet service,-0.5242,0.592,0.4562,0.8345
+OnlineBackup_No internet service,-0.5242,0.592,0.4562,0.8345
+Contract_Month-to-month,0.4877,1.6286,1.4099,1.9929
+PaperlessBilling_Yes,0.3713,1.4496,1.2363,1.6811
+StreamingMovies_No,-0.3626,0.6958,0.5959,0.8538
+StreamingTV_No,-0.3621,0.6962,0.5971,0.8317
+StreamingMovies_Yes,0.2912,1.338,0.9137,1.727
+StreamingTV_Yes,0.2906,1.3372,0.9273,1.7003
+PaymentMethod_Credit card (automatic),-0.2838,0.7529,0.6413,0.8831
+MultipleLines_No,-0.2605,0.7706,0.679,0.8514
+PaymentMethod_Bank transfer (automatic),-0.2531,0.7764,0.6702,0.8906
+MultipleLines_Yes,0.2418,1.2736,0.8688,1.6644
+Dependents_Yes,-0.2251,0.7984,0.6749,0.9664
+Contract_One year,-0.2117,0.8092,0.6791,0.9853
+PaymentMethod_Mailed check,-0.1863,0.83,0.7212,0.9775
+SeniorCitizen,0.1479,1.1594,0.9728,1.3745
+OnlineSecurity_Yes,-0.141,0.8685,0.6782,1.02
+PaymentMethod_Electronic check,0.1276,1.1361,1.0157,1.2948
+DeviceProtection_No,-0.1226,0.8846,0.8038,0.9702
+TechSupport_Yes,-0.1147,0.8916,0.6891,1.0757
+OnlineSecurity_No,0.0695,1.072,0.9773,1.169
+OnlineBackup_No,-0.0543,0.9472,0.8737,1.0437
+DeviceProtection_Yes,0.0511,1.0525,0.8181,1.2464
+TechSupport_No,0.0433,1.0442,0.933,1.1513
+gender_Male,0.0232,1.0235,0.8927,1.179
+Partner_Yes,0.0221,1.0224,0.8673,1.2187
+PhoneService_Yes,-0.0187,0.9815,0.6242,1.3298
+OnlineBackup_Yes,-0.0172,0.983,0.7586,1.1293

@@ -1,0 +1,5 @@
+model,roc_auc,roc_auc_sd,se,within_1SE_of_best,selected
+Logistic Regression,0.8464,0.0128,0.0057,True,True
+Decision Tree,0.8314,0.0133,0.0059,False,False
+Random Forest,0.8478,0.0099,0.0044,True,False
+Gradient Boosting,0.8506,0.0121,0.0054,True,False

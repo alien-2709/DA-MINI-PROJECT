@@ -1,0 +1,14 @@
+check,result
+Rows,7043
+Columns (incl. ID and target),22
+NaN cells (default parse),0
+"Blank-string cells (raw text), all columns",11
+Blank TotalCharges cells,11
+Duplicate rows (all columns),0
+Duplicate customerID,0
+Rows identical when customerID is ignored,22
+Negative tenure / MonthlyCharges / TotalCharges,0
+Unexpected category labels,0
+PhoneService=No but MultipleLines != 'No phone service',0
+InternetService=No but an add-on != 'No internet service',0
+"tenure in [0,72]",True

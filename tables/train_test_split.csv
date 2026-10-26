@@ -1,0 +1,3 @@
+set,rows,churned,churn_pct
+train,5634,1495,26.54
+test,1409,374,26.54
